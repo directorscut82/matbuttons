@@ -8,6 +8,8 @@ Unfortunately despite the many incarnations of mathworks's ui building (Guide an
 
 See **manual.pdf** for a quick overview and run Geps_summer_treat.m for inspecting the different flavors.
 
+---
+
 ###### References
 
 Kudos to mister Altman from [undocumentedMatlab](http://undocumentedmatlab.com)

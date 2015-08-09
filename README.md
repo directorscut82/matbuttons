@@ -16,3 +16,4 @@ See **manual.pdf** for a quick overview and run Geps_summer_treat.m for inspecti
 * findjobj.m is also his contribution for finding java objects contained within a specified Matlab GUI handle from [fileexchange](http://www.mathworks.com/matlabcentral/fileexchange/14317-findjobj-find-java-handles-of-matlab-graphic-objects)
 * Original button icons and extracted images are included on folders 'psds' and 'extracted', respectively. Icon psds were found floating freely on the internets.
 
+As always everything is highly experimental and is offered as-is

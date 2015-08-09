@@ -2,4 +2,6 @@
 
 ###### matbuttons is a simple matlab script-guide for creating gui elements and especially buttons in arbitary sizes and shapes.
 
-Unfortunately despite the many incarnations of mathworks's ui building (Guide and its children), 
+Unfortunately despite the many incarnations of mathworks's ui building (Guide and its children, including some exceptional commits from file-exchange), its functionality leaves something to be desired. A prominent exclusion -at least to me, is the absence of circle buttons*.
+
+This small script 

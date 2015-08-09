@@ -6,10 +6,13 @@ Unfortunately despite the many incarnations of mathworks's ui building (Guide an
 
 *Geps_summer_treat* is a small demo script that serves as a guide for creating buttons with practically no creative limitations at the price of exposing some java functionality by undocumented methods and reqires a little bit of photoshop/gimp skills. 
 
-See **manual.pdf** for a quick overview and run Geps_summer_treat.m for inspecting the different flavors.
+See **manual.pdf** for a quick overview and run Geps_summer_treat.m for inspecting the different flavors (tristates, toggles, embedded, etc.)
 
 ---
 
 ###### References
 
-Kudos to mister Altman from [undocumentedMatlab](http://undocumentedmatlab.com)
+* Kudos to mister Altman from [undocumentedMatlab](http://undocumentedmatlab.com) as most of the ideas presented (if not everything) are based on his fanstastic posts and books.
+* findjobj.m is also his contribution for finding java objects contained within a specified Matlab GUI handle from [fileexchange](http://www.mathworks.com/matlabcentral/fileexchange/14317-findjobj-find-java-handles-of-matlab-graphic-objects)
+* Original button icons and extracted images are included on folders 'psds' and 'extracted', respectively. Icon psds were found floating freely on the internets.
+

@@ -8,7 +8,9 @@ Unfortunately despite the many incarnations of mathworks's ui building (Guide an
 
 See **manual.pdf** for a quick overview and run Geps_summer_treat.m for inspecting the different flavors (tristates, toggles, embedded, etc.). Callback's functions are implemented nested only for demostration purposes, mainly for viewing code snippets without much scrolling. 
 
+<sub>
 **we now have the [App Designer](http://www.mathworks.com/matlabcentral/fileexchange/48142-app-designer) with more stylish designs by Tim Smith (but in my totally humble opinion they are exemplars of not-so-nice skeuomorphic design)*
+</sub>
 
 ---
 
